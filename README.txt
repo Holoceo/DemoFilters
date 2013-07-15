@@ -1,4 +1,5 @@
-This is a simple app for image filtering. It uses PhotoView (https://github.com/chrisbanes/PhotoView)for image zooming.
+This is a simple app for image filtering. It uses PhotoView 
+( https://github.com/chrisbanes/PhotoView ) for image zooming.
 
 Features:
 -Histogram 
