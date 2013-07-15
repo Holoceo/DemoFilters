@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoFilters</string>
+    <string name="action_settings">Settings</string>
+    <string name="histogram">Histogram</string>
+    <string name="grayscale">Grayscale</string>
+    <string name="threshhold">Threshold</string>
+    <string name="mosaic">Mosaic</string>
+    <string name="sepia">Sepia</string>
+    <string name="filter">Filter</string>
+    <string name="contour">Contour</string>
+    <string name="original">Original</string>
+
+</resources>
